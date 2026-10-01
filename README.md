@@ -47,3 +47,9 @@ S   G   V   s   b   G   8 <br>
 padding <br>
   ↓ <br>
 SGVsbG8= <br>
+
+Reference:
+For ASCII TABLE: https://www.ascii-code.com/
+For Base64 table
+<img width="623" height="457" alt="base64-encoding-and-decoding" src="https://github.com/user-attachments/assets/e83401d8-69f7-4c8d-b7a2-61b4047cf892" />
+
