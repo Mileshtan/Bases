@@ -18,10 +18,10 @@ Step4: Final answer: academy{l3arn_th3_r0p35}
 
 How toBase64 works:
 
-Hello
-  ↓
-ASCII
-  ↓
+Hello <br>
+  ↓ <br>
+ASCII <br>
+  ↓ <br>
 72  101  108  108  111
   ↓
 8-bit binary
